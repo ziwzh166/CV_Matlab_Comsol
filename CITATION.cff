@@ -1,1 +1,16 @@
-
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zhao"
+  given-names: "Ziwen"
+  orcid: "add orcid"
+- family-names: "Kostopoulos"
+  given-names: "Nikos"
+  orcid: "add orcid"
+- family-names: "Bagnall"
+  given-names: "Andrew"
+  orcid: "add orcid"
+title: "CV_Matlab_Comsol"
+version: 1.0.1
+date-released: 2025-02-14
+url: "https://github.com/ziwzh166/CV_Matlab_Comsol/"
