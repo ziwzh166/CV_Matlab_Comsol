@@ -7,7 +7,7 @@ This repository contains a collection of tools for electrochemical simulations, 
 ## Authors
 
 * Ziwen Zhao [@ziwzh166](https://github.com/ziwzh166)
-* Andrew J. Bangnall [@Swagmeister5000](https://github.com/Swagmeister5000)
+* Andrew J. Bagnall [@Swagmeister5000](https://github.com/Swagmeister5000)
 * Nikolaos Kostopoulos [@ngkostop](https://github.com/ngkostop)
 * Alina Sekretareva*[@alina-sekretareva](https://github.com/alina-sekretareva)
 
