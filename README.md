@@ -2,12 +2,12 @@
 
 # Overview
 
-This repository contains a collection of tools for electrochemical simulations, focusing on Cyclic Voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS). The toolkit includes MATLAB scripts for one electron step  CV simulations and a Jupyter notebook for EIS data fitting with custom circuit elements.
+This repository contains a collection of tools for electrochemical simulations, focusing on Cyclic Voltammetry (CV) and Electrochemical Impedance Spectroscopy (EIS). The toolkit includes MATLAB scripts for one-electron step  CV simulations and a Jupyter notebook for EIS data fitting with custom circuit elements.
 
 ## Authors
 
-* Ziwen Zhao [@ziwzh166](https://github.com/ziwzh166)
-* Andrew J. Bagnall [@Swagmeister5000](https://github.com/Swagmeister5000)
+* Andrew J. Bagnall [@AJBagnall](https://github.com/AJBagnall)
+*  Ziwen Zhao [@ziwzh166](https://github.com/ziwzh166)
 * Nikolaos Kostopoulos [@ngkostop](https://github.com/ngkostop)
 * Alina Sekretareva*[@alina-sekretareva](https://github.com/alina-sekretareva)
 
